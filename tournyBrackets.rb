@@ -28,3 +28,5 @@ teams = []
 		# puts "#{teams.shift} vs #{teams.pop}"\n
 else puts "Thank You, have a good tournament"
 end
+
+# Eric was here...
